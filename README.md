@@ -6,4 +6,8 @@ the model is free from CNNs and it make result <br>
 <h3>before training model and it 's  generated images like</h3> <br>
 <img src='first.png'>
 <h3>after training model and it 's  generated images like</h3> <br>
-<img src='last.png'>
+<img src='last.png'><br>
+notes : <br>
+also there is a tensorboard to see the training <br>
+to see it just write this command in the same folder<br>
+tensorboard --logdir=runs
